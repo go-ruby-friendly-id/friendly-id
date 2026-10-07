@@ -4,7 +4,7 @@
 
 [![Docs](https://img.shields.io/badge/docs-mkdocs--material-DC2626)](https://go-ruby-friendly-id.github.io/docs/)
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue)](LICENSE)
-[![Go](https://img.shields.io/badge/go-1.26.4-00ADD8)](go.mod)
+[![Go](https://img.shields.io/badge/go-1.27.1-00ADD8)](go.mod)
 
 Pure-Go (CGO=0), MRI-faithful reimplementation of the Ruby
 [**`friendly_id`**](https://github.com/norman/friendly_id) gem's slug engine — the
